@@ -11,6 +11,6 @@ public class TestBootController {
 
     @RequestMapping("demo")
     public String getString() {
-        return "兴证全球";
+        return "兴证全球66666";
     }
 }
