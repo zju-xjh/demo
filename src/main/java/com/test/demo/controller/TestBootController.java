@@ -11,6 +11,6 @@ public class TestBootController {
 
     @RequestMapping("demo")
     public String getString() {
-        return "after 自动化部署 success!!!";
+        return "兴证全球";
     }
 }
